@@ -1,5 +1,5 @@
-# CS1332-
-GaTech Data Structures &amp; Algorithms (Summer 2022)
+# CS1332 Data Structures and Algorithms
+GaTech Data Structures & Algorithms (Summer 2022)
 
 HW 1: Singly Linked Lists
 
